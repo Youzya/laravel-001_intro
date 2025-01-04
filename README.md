@@ -1,6 +1,6 @@
 # Задание 2.
 
-![Изображение](https://imgur.com/a/8P9SBJy)
+![Изображение](https://i.imgur.com/EOhYDgL.png)
 
 # Задание 3. Установка Laravel
 
